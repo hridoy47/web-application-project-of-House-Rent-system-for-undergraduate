@@ -1,0 +1,61 @@
+body {
+  background: #3C8D2F; /* fallback for old browsers */
+  background: -webkit-linear-gradient(right, #76b852, #8DC26F);
+  background: -moz-linear-gradient(right, #76b852, #8DC26F);
+  background: -o-linear-gradient(right, #76b852, #8DC26F);
+  background: linear-gradient(to left, #76b852, #8DC26F);
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
+.over{
+	background: #99b3ff;
+	height:20px;
+	width: auto;
+}
+.input{
+	margin-top: 30px;
+}
+a.button {
+	border-style: solid;
+}
+
+.coverfull{
+	max-width: 1400px;
+	margin-left: 300px;
+	
+	
+	
+
+}
+.output{
+	
+}
+.input{
+	padding: 20px;
+	
+	margin-top: 15px;
+	background-color: #9AE39F;
+	height: 100px;
+	width: 750px;
+	
+	margin-right: 40px;
+}
+.chatlogs{
+	padding: 20px;
+	margin-top: 50px;
+	background-color: white;
+	height: 450px;
+	width: 750px;
+	margin-right: 40px;
+	max-height: 500px;
+	overflow-y: scroll;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}

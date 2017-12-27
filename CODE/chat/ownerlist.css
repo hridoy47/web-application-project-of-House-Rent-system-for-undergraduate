@@ -1,0 +1,14 @@
+body {
+  background: #76b852; /* fallback for old browsers */
+     
+}
+.login-page {
+  height: 30px;
+  width: 850px;
+  margin-top: 50px;
+  margin-left: 70px;
+}
+input.solid {
+	border-style: solid;
+	
+}
